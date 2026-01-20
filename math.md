@@ -13,7 +13,6 @@ Missing Lethal Authorization	No EO / DOD order to use lethal force domestically	
 
 DAE Weighted Sum:
 
-𝐷𝐴𝐸=0.15∗0.9+0.20∗0.85+0.20∗0.75+0.10∗0.95+0.15∗0.8−0.05∗0.5−0.10∗0=0.767
 DAE=0.15∗0.9+0.20∗0.85+0.20∗0.75+0.10∗0.95+0.15∗0.8−0.05∗0.5−0.10∗0=0.767
 
 → High domestic authoritarian potential (~77%). (initial)
@@ -32,14 +31,12 @@ Nuclear / Strategic Weapons Use	Not yet observed	-0.10	0
 
 ICR Weighted Sum:
 
-𝐼𝐶𝑅=0.25∗0.95+0.20∗0.7+0.10∗0.85+0.20∗0.9+0.15∗0.65−0.10∗0.2−0.10∗0=0.758
 ICR=0.25∗0.95+0.20∗0.7+0.10∗0.85+0.20∗0.9+0.15∗0.65−0.10∗0.2−0.10∗0=0.758
 
 C. Coupled Risk Adjustment
 
 We introduce a Domestic Escalation Multiplier (DEM) to reflect how domestic authoritarian consolidation amplifies international risk:
 
-𝐼𝐶𝑅𝑎𝑑𝑗=𝐼𝐶𝑅+(𝐷𝐴𝐸∗0.15)=0.758+(0.767∗0.15)=0.872
 ICRadj=ICR+(DAE∗0.15)=0.758+(0.767∗0.15)=0.872
 
 → Current estimated risk of U.S.-triggered WW3 ≈ 87%, based purely on documented actions, deployments, and Trump’s historical behavioral patterns. (ADJUSTED)
