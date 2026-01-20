@@ -20,9 +20,9 @@ Missing Lethal Authorization	No EO / DOD order to use lethal force domestically	
 
 DAE Weighted Sum:
 
-DAE=0.15∗0.9+0.20∗0.85+0.20∗0.75+0.10∗0.95+0.15∗0.8−0.05∗0.5−0.10∗0=0.767
+#### DAE=0.15∗0.9+0.20∗0.85+0.20∗0.75+0.10∗0.95+0.15∗0.8−0.05∗0.5−0.10∗0=0.767
 
-#### → High domestic authoritarian potential (~77%). (initial)
+#### → High domestic authoritarian potential (~77%).
 
 ### B. International Conflict / WW3 Risk (ICR)
 
