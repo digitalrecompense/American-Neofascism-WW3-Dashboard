@@ -52,7 +52,7 @@ We introduce a Domestic Escalation Multiplier (DEM) to reflect how domestic auth
 
 ICRadj=ICR+(DAE∗0.15)=0.758+(0.767∗0.15)=0.872
 
-→ Current estimated risk of U.S.-triggered WW3 ≈ 87%, based purely on documented actions, deployments, and Trump’s historical behavioral patterns. (ADJUSTED)
+→ Current estimated risk of U.S.-triggered WW3 ≈ 87%, based purely on documented actions, deployments, and Trump’s historical behavioral patterns.
 
 ### D. Visualization (Conceptual)
 
