@@ -15,6 +15,6 @@ Event annotations: Key events like pardons, EOs, military deployments, and Allig
 
 Black dotted line: Critical WW3 tipping point at 0.9
 
-You can run this script in any standard Python terminal environment on Linux. It will show how domestic and international risks have evolved and highlight events that push toward the tipping point.
-
 <img width="2557" height="1208" alt="image" src="https://github.com/user-attachments/assets/89a0ed66-2be2-469c-a197-bf3b58a72031" />
+
+You can run this script in any standard Python terminal environment on Linux. It will show how domestic and international risks have evolved and highlight events that push toward the tipping point.
