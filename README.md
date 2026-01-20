@@ -1,4 +1,4 @@
-# American-Neofascism-WW3-Dashboard
+# American Neofascism WW3-Predictor Plot
 
 
 ###### I’ve created a timeline-based risk visualization on Linux using Matplotlib.
