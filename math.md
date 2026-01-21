@@ -73,6 +73,8 @@ ICR_adj = 0.817
 
 All updates additive; scale remains 0–1.
 
+<br>
+
 ✅ Key corrections made:
 
 ###### All weighted sums recalculated accurately.
