@@ -75,8 +75,8 @@ All updates additive; scale remains 0–1.
 
 ✅ Key corrections made:
 
-All weighted sums recalculated accurately.
-DEM added correctly.
-Explicit notes that 0–1 scale ≠ literal probability.
-Event-driven updates corrected.
-DAE/ICR now internally consistent.
+###### All weighted sums recalculated accurately.
+###### DEM added correctly.
+###### Explicit notes that 0–1 scale ≠ literal probability.
+###### Event-driven updates corrected.
+###### DAE/ICR now internally consistent.
