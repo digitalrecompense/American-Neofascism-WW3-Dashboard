@@ -1,7 +1,7 @@
 # Components
 
 
-A. Domestic Authoritarian Escalation (DAE)
+## A. Domestic Authoritarian Escalation (DAE)
 
 | Metric / Indicator                        | Weight | Score (0–1) | Weighted |
 | ----------------------------------------- | ------ | ----------- | -------- |
@@ -19,7 +19,7 @@ DAE Weighted Sum:
 Scale note: DAE ∈ [−0.1, 0.77] given weights; can be normalized to 0–1 for easier interpretation if desired.
 
 
-B. International Conflict / WW3 Risk (ICR)
+## B. International Conflict / WW3 Risk (ICR)
 
 | Metric / Indicator              | Weight | Score (0–1) | Weighted |
 | ------------------------------- | ------ | ----------- | -------- |
@@ -35,7 +35,7 @@ ICR Weighted Sum:
 0.2375 + 0.140 + 0.085 + 0.180 + 0.0975 − 0.020 = 0.720
 
 
-C. Coupled Risk Adjustment (ICR_adj)
+## C. Coupled Risk Adjustment (ICR_adj)
 
 To account for domestic authoritarian influence:
 
@@ -46,7 +46,7 @@ Adjusted risk: ICR_adj = ICR + DEM = 0.720 + 0.09675 ≈ 0.817
 Interpretation: On a 0–1 normalized scale, ICR_adj ≈ 0.82, high but not a literal probability of WW3. It represents elevated risk given current trends.
 
 
-D. Visualization / Heat Map Concept
+## D. Visualization / Heat Map Concept
 
 X-axis: DAE (0–1)
 
@@ -55,11 +55,8 @@ Y-axis: ICR_adj (0–1)
 Zones:
 
 Green: Low risk
-
 Yellow: Medium / Watch
-
 Red: High risk (DAE > 0.6 & ICR_adj > 0.7)
-
 Current Position:
 
 DAE = 0.645
