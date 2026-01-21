@@ -43,7 +43,8 @@ DEM (Domestic Escalation Multiplier) = DAE × 0.15 = 0.645 × 0.15 = 0.09675
 
 Adjusted risk: ICR_adj = ICR + DEM = 0.720 + 0.09675 ≈ 0.817
 
-Interpretation: On a 0–1 normalized scale, ICR_adj ≈ 0.82, high but not a literal probability of WW3. It represents elevated risk given current trends.
+Interpretation: On a 0–1 normalized scale, ICR_adj ≈ 0.82, high but not a literal probability of WW3. 
+It represents elevated risk given current trends.
 
 
 ## D. Visualization / Heat Map Concept
