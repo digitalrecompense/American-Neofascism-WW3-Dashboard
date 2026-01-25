@@ -20,4 +20,4 @@ example:
 
 ### If you run into issues try using this as the very first cell, run it to install the dependencies required:
 
-# !pip install feedparser requests beautifulsoup4 nltk scikit-learn matplotlib pandas
+#### !pip install feedparser requests beautifulsoup4 nltk scikit-learn matplotlib pandas
