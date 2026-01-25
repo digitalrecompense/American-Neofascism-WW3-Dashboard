@@ -1,4 +1,4 @@
-# American Neofascism WW3-Predictor Plot
+# Probablistic Deterministic News Analyser & Predictor
 
 
 ###### I’ve created using Grok an updated visualizer prgoram that can be used in realtime for multiple purposes.
